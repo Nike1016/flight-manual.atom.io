@@ -17,7 +17,7 @@ gem 'kramdown'
 gem 'kramdown-parser-gfm'
 
 gem 'activesupport', '~> 4.2'
-gem 'rake'
+gem 'rake', '>= 12.3.3'
 gem 'pry'
 gem 'pry-coolline'
 
